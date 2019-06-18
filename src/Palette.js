@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./Palette.css";
 import Navbar from "./Navbar";
 import ColorBox from "./ColorBox";
-import Slider from "rc-slider";
 import "rc-slider/assets/index.css";
 
 class Palette extends Component {
